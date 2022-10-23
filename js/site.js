@@ -9,7 +9,7 @@ document.getElementById("b").addEventListener("click", myFunction2);
 
 function myFunction2() {
     document.body.style.backgroundColor = "slategray";
-    document.getElementById("myImg").src = "image/3.jpg";
+    document.getElementById("myImg").src = "image/3.JPG";
 }
 
 document.getElementById("c").addEventListener("click", myFunction3);
